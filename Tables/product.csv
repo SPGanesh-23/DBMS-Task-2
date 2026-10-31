@@ -1,0 +1,21 @@
+product_id,product_name,category_id,price,stock_quantity,seller_id
+1,"Redmi Note 13 5G",1,16999.00,50,1
+2,"Men Cotton T-Shirt",2,499.00,200,2
+3,"Non-stick Cookware Set",3,1899.00,80,3
+4,"Wings of Fire (Book)",4,250.00,150,4
+5,"Kashmir Willow Cricket Bat",5,1299.00,40,5
+6,"Wireless Headphones",1,1499.00,120,6
+7,"Mixer Grinder 750W",3,3299.00,60,7
+8,"Face Wash 100ml",6,199.00,300,8
+9,"Building Blocks Set",7,799.00,90,9
+10,"Organic Honey 500g",8,350.00,110,10
+11,"Bluetooth Speaker",1,1799.00,70,6
+12,"Smart Watch",1,2499.00,95,1
+13,"Power Bank 20000mAh",1,1299.00,100,6
+14,"USB-C Fast Charger 65W",1,999.00,85,1
+15,"Women Kurti",2,699.00,120,2
+16,"Running Shoes",2,2299.00,60,2
+17,"Steel Water Bottle 1L",3,399.00,150,3
+18,"Atomic Habits (Book)",4,499.00,90,4
+19,"Yoga Mat",5,699.00,75,5
+20,"Moisturizer 200ml",6,349.00,140,8
